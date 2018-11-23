@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HighScore</string>
+    <string name="valid_score">Score Required</string>
+    <string name="valid_name">Name Required</string>
+    <string name="write_error">Can\'t Open File</string>
+    <string name="high_score">High Score:</string>
+    <string name="by">By:</string>
+    <string name="enter_score">Enter Score</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit">Submit</string>
+    <string name="view_all_scores">View All Scores</string>
+    <string name="reset_scores">Reset Scores</string>
+    <string name="score">Score:</string>
+    <string-array name="scores">
+        <item>Test</item>
+    </string-array>
+</resources>
